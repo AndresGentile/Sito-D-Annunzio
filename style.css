@@ -1,0 +1,66 @@
+.top{
+    background-image:url("https://i.pinimg.com/564x/9e/1a/21/9e1a21a5ef21713355fbda31a227abe2.jpg") !important;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:rgba(0, 0, 0, 0.8) !important;
+    padding:20px;
+    width:100%;
+    height:auto;
+    text-align:center;
+}
+
+body{
+    background-color: #ffefe6;
+    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn1.png') 64 64, auto !important;}
+    a {cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto !important;
+
+}
+h1{
+    font-family: Lucida Handwriting;
+    font-weight:1000;
+    font-size: 50px;
+    color: #ffffff;
+    text-align:center;
+}
+p { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 20px; 
+    font-weight: 550;  
+}
+d{
+    font-family: 'Orbitron';
+    font-size: 22px;
+    font-weight:550;
+    
+}
+#vita{
+    width:fit-content;
+    height:fit-content;
+    padding:20px;
+    background-color:#8a4e2c;
+}
+#opere{
+    width:fit-content;
+    height:fit-content;
+    padding:20px;
+    background-color:#cf4c00;
+}
+#extra{
+    width:fit-content;
+    height:fit-content;
+    padding:20px;
+    background-color:#8e5353;
+}
+#leo{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#link{
+    color:#170901;
+    background-color: #ff823a;
+}
+#link:hover{
+    color:white;
+}
