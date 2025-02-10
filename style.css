@@ -60,6 +60,7 @@ d{
 #link{
     color:#170901;
     background-color: #ff823a;
+    min-width: 15%;
 }
 #link:hover{
     color:white;
