@@ -80,6 +80,7 @@ d {
 #link:hover {
     color: white;
     cursor: pointer;
+    scale: 0.95;
     transition: all .15s;
 }
 
