@@ -74,10 +74,13 @@ d {
     color: #170901;
     background-color: #ff823a;
     min-width: 15%;
+    transition: all .15s;
 }
 
 #link:hover {
     color: white;
+    cursor: pointer;
+    transition: all .15s;
 }
 
 .navbar {
