@@ -79,7 +79,7 @@ d {
 
 #link:hover {
     color: white;
-    cursor: pointer;
+    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto;
     scale: 0.95;
     transition: all .15s;
 }
