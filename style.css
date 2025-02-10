@@ -85,12 +85,13 @@ d {
 }
 
 .navbar {
-    background-color: #8a4e2c;
+    background-color: #4a210a9e;
     padding: 15px;
     text-align: center;
     position: sticky;
     top: 0;
     z-index: 1000;
+    backdrop-filter: blur(8px);
 }
 
 .nav-link {
