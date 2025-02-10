@@ -15,11 +15,11 @@
 
 html {
     background-color: #ffefe6;
-    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn1.png') 64 64, auto;
+    /*cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn1.png') 64 64, auto;*/
 }
 
 a {
-    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto;
+    /*cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto;*/
 }
 
 h1 {
@@ -79,7 +79,7 @@ d {
 
 #link:hover {
     color: white;
-    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto;
+    cursor: pointer;
     scale: 0.95;
     transition: all .15s;
 }
