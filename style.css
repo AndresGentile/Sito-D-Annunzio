@@ -1,9 +1,9 @@
 .top {
     background-image: url("https://mole24.it/wp-content/uploads/2016/01/DAnnunzio-Vittoriale.jpg");
-    background-position: center;
+    background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(0, 0, 0, 0.8);
     padding: 20px;
     width: 100%;
     height: 100vh;
