@@ -1,5 +1,5 @@
 .top {
-    background-image: url("https://i.pinimg.com/564x/9e/1a/21/9e1a21a5ef21713355fbda31a227abe2.jpg") !important;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmole24.it%2Fwp-content%2Fuploads%2F2016%2F01%2FDAnnunzio-Vittoriale.jpg&f=1&nofb=1&ipt=7565e05ab0350ef27981a980bdb26b41ae069c542ebefa39feb7f8731f85e5df&ipo=images");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15,11 +15,11 @@
 
 html {
     background-color: #ffefe6;
-    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn1.png') 64 64, auto !important;
+    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn1.png') 64 64, auto;
 }
 
 a {
-    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto !important;
+    cursor: url('https://raw.githubusercontent.com/coob113/fancy-cursors/master/hand-drawn2.png') 64 64, auto;
 }
 
 h1 {
